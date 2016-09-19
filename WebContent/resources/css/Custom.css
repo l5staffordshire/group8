@@ -1,0 +1,43 @@
+.sub-header{
+    
+    background-color:#372850; 
+    color:white; 
+    text-align:center; 
+    margin-bottom:50px; 
+    padding-top:10px;
+}
+
+
+.form-div {
+    
+    text-align:left; 
+    font-size:20px;
+}
+
+
+.color-purple {
+    
+    background-color:#372850;
+}
+
+.main-nav {
+    
+    margin-bottom:200px;
+}
+
+.centered-text {
+    
+    text-align:center;
+    
+}
+
+.nav-height {
+    
+    
+    margin-top:80px;
+}
+
+.logoimg {
+    
+    width:120px;
+}
