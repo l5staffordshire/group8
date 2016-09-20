@@ -37,10 +37,19 @@
 
     <nav class="navbar navbar-inverse navbar-fixed-top color-purple .main-nav">
       <div class="container-fluid">
+      <div class="container-fluid">
         <div class="centered-text">
-       
           <a class="" href="#" ><img src="resources/images/gtuclogo.png" class="logoimg"></a>
         </div>
+          
+        <div class="row color-purpledark">
+            
+             <div class=" pull-right">
+          <p class="wfont loginf ">welcome, <span><%=request.getParameter("username") %></span></p>
+        </div> 
+          
+        </div>
+        
       </div>
     </nav>
 
